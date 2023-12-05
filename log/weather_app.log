@@ -1,0 +1,533 @@
+08.08.23 00:40:54:INFO:Weather for Bamberg: Cloud, Temperature: 11.13°C, Feels Like: 10.00°C, Luftfeuchtigkeit: 84.00°C,Min Temperature: 9.57°C, Max Temperature: 11.97°C, Wind Speed: 1.98 m/s
+08.08.23 00:41:27:INFO:Weather for Bamberg: Clouds, Temperature: 11.13°C, Feels Like: 10.00°C, Luftfeuchtigkeit: 84.00°C,Min Temperature: 9.57°C, Max Temperature: 11.97°C, Wind Speed: 1.98 m/s
+08.08.23 00:53:19:INFO:Weather for Bamberg: Clouds, Temperature: 11.08°C, Feels Like: 10.00°C, Luftfeuchtigkeit: 88.00°C,Min Temperature: 9.00°C, Max Temperature: 12.00°C, Wind Speed: 1.98 m/s
+08.08.23 00:58:35:INFO:Weather for Bamberg: Clouds, Temperature: 11.00°C, Feels Like: 10.00°C, Luftfeuchtigkeit: 88.00°C,Min Temperature: 9.00°C, Max Temperature: 12.00°C, Wind Speed: 1.98 m/s
+08.08.23 00:59:15:INFO:Weather for Bamberg: Clouds, Temperature: 11.00°C, Feels Like: 10.00°C, Luftfeuchtigkeit: 88.00°C,Min Temperature: 9.00°C, Max Temperature: 12.00°C, Wind Speed: 1.98 m/s
+08.08.23 01:02:30:INFO:Weather for Bamberg: Clouds, Temperature: 11.00°C, Feels Like: 10.00°C, Luftfeuchtigkeit: 87.00°C,Min Temperature: 9.00°C, Max Temperature: 12.00°C, Wind Speed: 1.98 m/s
+08.08.23 01:03:00:INFO:Weather for Bamberg: Clouds, Temperature: 11.00°C, Feels Like: 10.00°C, Luftfeuchtigkeit: 87.00°C,Min Temperature: 9.00°C, Max Temperature: 12.00°C, Wind Speed: 1.98 m/s
+08.08.23 11:13:28:INFO:Weather for bamberg: Clouds, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 74.00°C,Min Temperature: 16.00°C, Max Temperature: 19.00°C, Wind Speed: 4.92 m/s
+08.08.23 11:13:44:INFO:Weather for nürnberg: Clouds, Temperature: 17.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 64.00°C,Min Temperature: 15.00°C, Max Temperature: 18.00°C, Wind Speed: 7.72 m/s
+08.08.23 11:13:56:INFO:Weather for new york: Clouds, Temperature: 21.00°C, Feels Like: 22.00°C, Luftfeuchtigkeit: 85.00°C,Min Temperature: 20.00°C, Max Temperature: 22.00°C, Wind Speed: 4.02 m/s
+08.08.23 11:14:11:INFO:Weather for sydney: Clouds, Temperature: 13.00°C, Feels Like: 13.00°C, Luftfeuchtigkeit: 80.00°C,Min Temperature: 11.00°C, Max Temperature: 14.00°C, Wind Speed: 4.12 m/s
+08.08.23 11:15:56:ERROR:Fehler: Der Server ist derzeit nicht erreichbar. Bitte versuchen Sie es später erneut.Eingegebener Ort: jhesfldac
+08.08.23 11:26:19:ERROR:Fehler: Der Server ist derzeit nicht erreichbar. /n Bitte versuchen Sie es später erneut.Eingegebener Ort: katze
+08.08.23 11:28:31:INFO:Weather for bamberg: Clouds, Temperature: 17.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 71.00°C,Min Temperature: 16.00°C, Max Temperature: 18.00°C, Wind Speed: 4.92 m/s
+08.08.23 11:28:41:INFO:Weather for hamburg: Clouds, Temperature: 14.00°C, Feels Like: 14.00°C, Luftfeuchtigkeit: 80.00°C,Min Temperature: 13.00°C, Max Temperature: 16.00°C, Wind Speed: 8.75 m/s
+08.08.23 11:42:01:INFO:Weather for Mailand: Clear, Temperature: 24.00°C, Feels Like: 23.00°C, Luftfeuchtigkeit: 40.00°C,Min Temperature: 22.00°C, Max Temperature: 25.00°C, Wind Speed: 2.06 m/s
+08.08.23 11:42:12:INFO:Weather for zagreb: Clouds, Temperature: 21.00°C, Feels Like: 21.00°C, Luftfeuchtigkeit: 55.00°C,Min Temperature: 19.00°C, Max Temperature: 23.00°C, Wind Speed: 1.03 m/s
+08.08.23 12:43:34:INFO:Weather for bamberg: Clouds, Temperature: 19.00°C, Feels Like: 18.00°C, Luftfeuchtigkeit: 63.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 6 m/s
+08.08.23 12:44:05:INFO:Weather for bamberg: Clouds, Temperature: 19.00°C, Feels Like: 18.00°C, Luftfeuchtigkeit: 63.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 6 m/s
+08.08.23 12:44:40:INFO:Weather for nürnberg: Clouds, Temperature: 19.00°C, Feels Like: 18.00°C, Luftfeuchtigkeit: 56.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 8.23 m/s
+08.08.23 12:44:56:INFO:Weather for bamberg: Clouds, Temperature: 19.00°C, Feels Like: 18.00°C, Luftfeuchtigkeit: 63.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 6 m/s
+08.08.23 12:45:30:INFO:Weather for nürnberg: Clouds, Temperature: 19.00°C, Feels Like: 18.00°C, Luftfeuchtigkeit: 56.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 8.23 m/s
+08.08.23 12:45:46:INFO:Weather for bamberg: Clouds, Temperature: 19.00°C, Feels Like: 18.00°C, Luftfeuchtigkeit: 63.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 6 m/s
+08.08.23 12:45:59:INFO:Weather for bamberg: Clouds, Temperature: 19.00°C, Feels Like: 18.00°C, Luftfeuchtigkeit: 63.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 6 m/s
+08.08.23 12:46:14:INFO:Weather for bamberg: Clouds, Temperature: 19.00°C, Feels Like: 18.00°C, Luftfeuchtigkeit: 63.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 6 m/s
+08.08.23 12:46:39:INFO:Weather for rom: Clear, Temperature: 28.00°C, Feels Like: 28.00°C, Luftfeuchtigkeit: 44.00°C,Min Temperature: 26.00°C, Max Temperature: 30.00°C, Wind Speed: 3.09 m/s
+08.08.23 12:49:01:ERROR:Fehler: Der Server ist derzeit nicht erreichbar.     Bitte versuchen Sie es später erneut.Eingegebener Ort: rer
+08.08.23 12:50:09:ERROR:Fehler: Der Server ist derzeit nicht erreichbar.
+\Bitte versuchen Sie es später erneut.Eingegebener Ort: dgs
+08.08.23 12:50:22:ERROR:Fehler: Der Server ist derzeit nicht erreichbar.
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: fasdf
+09.08.23 20:27:04:INFO:Weather for bamberg: Clouds, Temperature: 17.00°C, Feels Like: 16.00°C, Luftfeuchtigkeit: 75.00°C,Min Temperature: 16.00°C, Max Temperature: 18.00°C, Wind Speed: 1.52 m/s
+09.08.23 20:29:36:ERROR:Fehler: Stadt nicht gefunden. Bitte prüfe den StädtenamenEingegebener Ort: dasd
+10.08.23 11:18:04:ERROR:Fehler beim Abrufen der Daten 404: city not found 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: xyvcxvg
+10.08.23 11:18:53:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: dsad
+10.08.23 11:21:08:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. Bitte versuchen Sie es später erneut.Eingegebener Ort: x<yx
+10.08.23 11:22:23:INFO:Weather for bamberg: Clouds, Temperature: 19.00°C, Feels Like: 19.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 18.00°C, Max Temperature: 20.00°C, Wind Speed: 1.75 m/s
+10.08.23 11:22:27:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: dasd
+10.08.23 17:54:44:INFO:Weather for MÃ¼nchen: Clouds, Temperature: 22.00Â°C, Feels Like: 22.00Â°C, Luftfeuchtigkeit: 46.00Â°C,Min Temperature: 22.00Â°C, Max Temperature: 23.00Â°C, Wind Speed: 2.33 m/s
+10.08.23 17:57:45:INFO:Weather for NÃ¼rnberg: Clear, Temperature: 23.00Â°C, Feels Like: 23.00Â°C, Luftfeuchtigkeit: 44.00Â°C,Min Temperature: 22.00Â°C, Max Temperature: 24.00Â°C, Wind Speed: 1.03 m/s
+10.08.23 17:58:55:INFO:Weather for NÃ¼rnberg: Clear, Temperature: 23.00Â°C, Feels Like: 23.00Â°C, Luftfeuchtigkeit: 44.00Â°C,Min Temperature: 22.00Â°C, Max Temperature: 24.00Â°C, Wind Speed: 1.03 m/s
+10.08.23 18:00:42:INFO:Weather for NÃ¼rnberg: Clear, Temperature: 23.00Â°C, Feels Like: 23.00Â°C, Luftfeuchtigkeit: 44.00Â°C,Min Temperature: 20.00Â°C, Max Temperature: 24.00Â°C, Wind Speed: 1.03 m/s
+10.08.23 18:00:48:INFO:Weather for MÃ¼nchen: Clouds, Temperature: 22.00Â°C, Feels Like: 22.00Â°C, Luftfeuchtigkeit: 46.00Â°C,Min Temperature: 22.00Â°C, Max Temperature: 23.00Â°C, Wind Speed: 2.33 m/s
+10.08.23 18:00:50:INFO:Weather for MÃ¼nchen: Clouds, Temperature: 22.00Â°C, Feels Like: 22.00Â°C, Luftfeuchtigkeit: 46.00Â°C,Min Temperature: 22.00Â°C, Max Temperature: 23.00Â°C, Wind Speed: 2.33 m/s
+10.08.23 18:00:52:INFO:Weather for MÃ¼nchen: Clouds, Temperature: 22.00Â°C, Feels Like: 22.00Â°C, Luftfeuchtigkeit: 46.00Â°C,Min Temperature: 22.00Â°C, Max Temperature: 23.00Â°C, Wind Speed: 2.33 m/s
+10.08.23 18:00:53:INFO:Weather for MÃ¼nchen: Clouds, Temperature: 22.00Â°C, Feels Like: 22.00Â°C, Luftfeuchtigkeit: 46.00Â°C,Min Temperature: 22.00Â°C, Max Temperature: 23.00Â°C, Wind Speed: 2.33 m/s
+10.08.23 18:00:55:INFO:Weather for MÃ¼nchen: Clouds, Temperature: 22.00Â°C, Feels Like: 22.00Â°C, Luftfeuchtigkeit: 46.00Â°C,Min Temperature: 22.00Â°C, Max Temperature: 23.00Â°C, Wind Speed: 2.33 m/s
+10.08.23 18:00:56:INFO:Weather for MÃ¼nchen: Clouds, Temperature: 22.00Â°C, Feels Like: 22.00Â°C, Luftfeuchtigkeit: 46.00Â°C,Min Temperature: 22.00Â°C, Max Temperature: 23.00Â°C, Wind Speed: 2.33 m/s
+10.08.23 18:03:34:INFO:Weather for NÃ¼rnberg: Clear, Temperature: 23.00Â°C, Feels Like: 23.00Â°C, Luftfeuchtigkeit: 43.00Â°C,Min Temperature: 20.00Â°C, Max Temperature: 25.00Â°C, Wind Speed: 1.03 m/s
+10.08.23 18:03:38:INFO:Weather for MÃ¼nchen: Clouds, Temperature: 22.00Â°C, Feels Like: 22.00Â°C, Luftfeuchtigkeit: 46.00Â°C,Min Temperature: 22.00Â°C, Max Temperature: 23.00Â°C, Wind Speed: 2.33 m/s
+10.08.23 18:06:29:INFO:Weather for NÃ¼rnberg: Clear, Temperature: 23.00Â°C, Feels Like: 23.00Â°C, Luftfeuchtigkeit: 43.00Â°C,Min Temperature: 20.00Â°C, Max Temperature: 25.00Â°C, Wind Speed: 1.03 m/s
+11.08.23 07:44:52:INFO:Weather for Nürnberg: Clear, Temperature: 13.00°C, Feels Like: 12.00°C, Luftfeuchtigkeit: 87.00°C,Min Temperature: 10.00°C, Max Temperature: 16.00°C, Wind Speed: 2.06 m/s
+11.08.23 07:44:57:INFO:Weather for München: Clear, Temperature: 14.00°C, Feels Like: 13.00°C, Luftfeuchtigkeit: 90.00°C,Min Temperature: 11.00°C, Max Temperature: 16.00°C, Wind Speed: 0.45 m/s
+11.08.23 07:45:17:INFO:Weather for Nürnberg: Clear, Temperature: 13.00°C, Feels Like: 12.00°C, Luftfeuchtigkeit: 87.00°C,Min Temperature: 10.00°C, Max Temperature: 16.00°C, Wind Speed: 2.06 m/s
+11.08.23 08:28:30:INFO:Weather for Bamberg: Clear, Temperature: 16.00°C, Feels Like: 16.00°C, Luftfeuchtigkeit: 82.00°C,Min Temperature: 13.00°C, Max Temperature: 18.00°C, Wind Speed: 1.04 m/s
+11.08.23 08:28:37:ERROR: 400: bad query 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: 
+11.08.23 08:28:43:INFO:Weather for nürnberg: Clear, Temperature: 14.00°C, Feels Like: 14.00°C, Luftfeuchtigkeit: 85.00°C,Min Temperature: 13.00°C, Max Temperature: 18.00°C, Wind Speed: 2.06 m/s
+11.08.23 08:28:47:INFO:Weather for köln: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:28:48:INFO:Weather for köln: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:28:48:INFO:Weather for köln: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:28:48:INFO:Weather for köln: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:28:49:INFO:Weather for köln: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:28:49:INFO:Weather for köln: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:28:49:INFO:Weather for köln: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:28:50:INFO:Weather for köln: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:28:50:INFO:Weather for köln: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:28:51:INFO:Weather for köln: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:28:51:INFO:Weather for köln: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:28:51:INFO:Weather for köln: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:28:52:INFO:Weather for köln: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:28:56:INFO:Weather for cologne: Clear, Temperature: 18.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 72.00°C,Min Temperature: 15.00°C, Max Temperature: 19.00°C, Wind Speed: 0.89 m/s
+11.08.23 08:33:17:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: bamnerg
+11.08.23 08:33:23:INFO:Weather for bamberg: Clear, Temperature: 16.00°C, Feels Like: 16.00°C, Luftfeuchtigkeit: 82.00°C,Min Temperature: 13.00°C, Max Temperature: 18.00°C, Wind Speed: 1.04 m/s
+11.08.23 08:40:59:ERROR: 400: bad query 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: 
+11.08.23 08:46:31:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: Enter a city
+11.08.23 08:46:54:INFO:Weather for nürnberg: Clear, Temperature: 16.00°C, Feels Like: 16.00°C, Luftfeuchtigkeit: 74.00°C,Min Temperature: 13.00°C, Max Temperature: 18.00°C, Wind Speed: 2.06 m/s
+11.08.23 08:47:03:INFO:Weather for nürnberg: Clear, Temperature: 16.00°C, Feels Like: 16.00°C, Luftfeuchtigkeit: 74.00°C,Min Temperature: 13.00°C, Max Temperature: 18.00°C, Wind Speed: 2.06 m/s
+11.08.23 08:53:00:INFO:Weather for nürnberg: Clear, Temperature: 16.00°C, Feels Like: 16.00°C, Luftfeuchtigkeit: 74.00°C,Min Temperature: 13.00°C, Max Temperature: 18.00°C, Wind Speed: 2.06 m/s
+11.08.23 08:53:20:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: Enter a city
+11.08.23 08:53:20:ERROR:Fehler beim Abrufen der Wetterdaten für Enter a city.
+11.08.23 08:53:20:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: Enter a city
+11.08.23 08:53:20:ERROR:Fehler beim Abrufen der Wetterdaten für Enter a city.
+11.08.23 08:53:26:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: Enter a city
+11.08.23 08:53:26:ERROR:Fehler beim Abrufen der Wetterdaten für Enter a city.
+11.08.23 08:53:30:INFO:Weather for nürnberg: Clear, Temperature: 16.00°C, Feels Like: 16.00°C, Luftfeuchtigkeit: 74.00°C,Min Temperature: 13.00°C, Max Temperature: 18.00°C, Wind Speed: 2.06 m/s
+11.08.23 08:55:53:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: Enter a city
+11.08.23 08:56:00:INFO:Weather for nürnberg: Clear, Temperature: 16.00°C, Feels Like: 16.00°C, Luftfeuchtigkeit: 74.00°C,Min Temperature: 13.00°C, Max Temperature: 18.00°C, Wind Speed: 2.06 m/s
+11.08.23 08:56:01:INFO:Weather for nürnberg: Clear, Temperature: 16.00°C, Feels Like: 16.00°C, Luftfeuchtigkeit: 74.00°C,Min Temperature: 13.00°C, Max Temperature: 18.00°C, Wind Speed: 2.06 m/s
+11.08.23 08:56:08:ERROR: 400: bad query 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: 
+11.08.23 08:56:16:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: Enter a city
+11.08.23 08:56:17:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: Enter a city
+11.08.23 08:56:17:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: Enter a city
+11.08.23 08:56:19:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: Enter a city
+11.08.23 08:56:25:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: asdasf
+11.08.23 08:56:26:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: asdasf
+11.08.23 08:56:27:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: asdasf
+11.08.23 08:56:28:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: asdasf
+11.08.23 08:57:17:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sfasdfasf
+11.08.23 08:57:17:ERROR:Fehler beim Abrufen der Wetterdaten für sfasdfasf.
+11.08.23 08:57:27:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: dsgsgdfg
+11.08.23 08:57:32:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sfafsdf
+11.08.23 08:57:38:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: dgsgsdfg
+11.08.23 08:57:44:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sdfsdg
+11.08.23 08:57:44:ERROR:Fehler beim Abrufen der Wetterdaten für sdfsdg.
+11.08.23 08:57:47:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sdgsdg
+11.08.23 08:57:47:ERROR:Fehler beim Abrufen der Wetterdaten für sdgsdg.
+11.08.23 08:57:48:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sdgsdg
+11.08.23 08:57:48:ERROR:Fehler beim Abrufen der Wetterdaten für sdgsdg.
+11.08.23 08:57:48:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sdgsdg
+11.08.23 08:57:48:ERROR:Fehler beim Abrufen der Wetterdaten für sdgsdg.
+11.08.23 08:57:49:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sdgsdg
+11.08.23 08:57:49:ERROR:Fehler beim Abrufen der Wetterdaten für sdgsdg.
+11.08.23 08:57:52:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sdgsdg
+11.08.23 08:57:52:ERROR:Fehler beim Abrufen der Wetterdaten für sdgsdg.
+11.08.23 08:57:52:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sdgsdg
+11.08.23 08:57:52:ERROR:Fehler beim Abrufen der Wetterdaten für sdgsdg.
+11.08.23 08:57:52:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sdgsdg
+11.08.23 08:57:52:ERROR:Fehler beim Abrufen der Wetterdaten für sdgsdg.
+11.08.23 08:57:52:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sdgsdg
+11.08.23 08:57:52:ERROR:Fehler beim Abrufen der Wetterdaten für sdgsdg.
+11.08.23 08:57:53:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sdgsdg
+11.08.23 08:57:53:ERROR:Fehler beim Abrufen der Wetterdaten für sdgsdg.
+11.08.23 08:57:54:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: gsdfgsdf
+11.08.23 08:57:54:ERROR:Fehler beim Abrufen der Wetterdaten für gsdfgsdf.
+11.08.23 08:59:08:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: ghjgfjf
+11.08.23 08:59:11:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: gfjgfj
+11.08.23 09:30:32:INFO:Weather for Nürnberg: Clear, Temperature: 17.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 73.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 2.06 m/s
+11.08.23 09:30:36:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: fasf
+11.08.23 09:30:47:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: dfsgdfgfdg
+11.08.23 09:30:55:INFO:Weather for nürnberg: Clear, Temperature: 17.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 73.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 2.06 m/s
+11.08.23 09:30:58:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: dsggfdg
+11.08.23 09:31:09:INFO:Weather for nürnberg: Clear, Temperature: 17.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 73.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 2.06 m/s
+11.08.23 09:31:15:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: dasd
+11.08.23 09:31:15:ERROR:Fehler beim Abrufen der Wetterdaten für dasd.
+11.08.23 09:31:16:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: dasd
+11.08.23 09:31:16:ERROR:Fehler beim Abrufen der Wetterdaten für dasd.
+11.08.23 09:31:17:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: dasdasdsad
+11.08.23 09:31:17:ERROR:Fehler beim Abrufen der Wetterdaten für dasdasdsad.
+11.08.23 09:31:20:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: nürnebrg
+11.08.23 09:31:20:ERROR:Fehler beim Abrufen der Wetterdaten für nürnebrg.
+11.08.23 09:31:21:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: nürnebrg
+11.08.23 09:31:21:ERROR:Fehler beim Abrufen der Wetterdaten für nürnebrg.
+11.08.23 09:31:25:INFO:Weather for nürnberg: Clear, Temperature: 17.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 73.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 2.06 m/s
+11.08.23 09:31:26:INFO:Weather for nürnberg: Clear, Temperature: 17.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 73.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 2.06 m/s
+11.08.23 09:31:38:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sdgdsfg
+11.08.23 09:31:40:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: fsafaf
+11.08.23 09:32:04:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: fcgdf
+11.08.23 09:39:43:INFO:Weather for nürnberg: Clear, Temperature: 17.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 73.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 2.06 m/s
+11.08.23 09:39:45:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: safdf
+11.08.23 09:39:45:ERROR:Fehler beim Abrufen der Wetterdaten für safdf.
+11.08.23 09:39:49:INFO:Weather for nürnberg: Clear, Temperature: 17.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 73.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 2.06 m/s
+11.08.23 09:39:51:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: fsaf
+11.08.23 09:39:51:ERROR:Fehler beim Abrufen der Wetterdaten für fsaf.
+11.08.23 09:39:54:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: fasf
+11.08.23 09:39:54:ERROR:Fehler beim Abrufen der Wetterdaten für fasf.
+11.08.23 09:40:10:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: fasf
+11.08.23 09:40:10:ERROR:Fehler beim Abrufen der Wetterdaten für fasf.
+11.08.23 09:40:11:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: fsf
+11.08.23 09:40:11:ERROR:Fehler beim Abrufen der Wetterdaten für fsf.
+11.08.23 09:40:14:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: gfadfad
+11.08.23 09:40:14:ERROR:Fehler beim Abrufen der Wetterdaten für gfadfad.
+11.08.23 09:40:14:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: gfadfad
+11.08.23 09:40:14:ERROR:Fehler beim Abrufen der Wetterdaten für gfadfad.
+11.08.23 09:40:14:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: gfadfad
+11.08.23 09:40:14:ERROR:Fehler beim Abrufen der Wetterdaten für gfadfad.
+11.08.23 09:40:24:INFO:Weather for nürnberg: Clear, Temperature: 17.00°C, Feels Like: 17.00°C, Luftfeuchtigkeit: 73.00°C,Min Temperature: 16.00°C, Max Temperature: 20.00°C, Wind Speed: 2.06 m/s
+11.08.23 09:40:25:INFO:Weather for sada: Clouds, Temperature: 21.00°C, Feels Like: 21.00°C, Luftfeuchtigkeit: 85.00°C,Min Temperature: 20.00°C, Max Temperature: 22.00°C, Wind Speed: 3.09 m/s
+11.08.23 09:40:25:INFO:Weather for sada: Clouds, Temperature: 21.00°C, Feels Like: 21.00°C, Luftfeuchtigkeit: 85.00°C,Min Temperature: 20.00°C, Max Temperature: 22.00°C, Wind Speed: 3.09 m/s
+11.08.23 09:40:28:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sadadsad
+11.08.23 09:40:28:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sadadsad
+11.08.23 09:40:30:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sadasd
+11.08.23 09:40:31:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sadasd
+11.08.23 09:40:33:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: dasda
+11.08.23 09:40:41:INFO:Weather for nürnberg: Clear, Temperature: 19.00°C, Feels Like: 19.00°C, Luftfeuchtigkeit: 63.00°C,Min Temperature: 18.00°C, Max Temperature: 20.00°C, Wind Speed: 2.06 m/s
+11.08.23 09:40:42:INFO:Weather for sada: Clouds, Temperature: 21.00°C, Feels Like: 21.00°C, Luftfeuchtigkeit: 85.00°C,Min Temperature: 20.00°C, Max Temperature: 22.00°C, Wind Speed: 3.09 m/s
+11.08.23 09:40:55:INFO:Weather for nürnberg: Clear, Temperature: 19.00°C, Feels Like: 19.00°C, Luftfeuchtigkeit: 63.00°C,Min Temperature: 18.00°C, Max Temperature: 20.00°C, Wind Speed: 2.06 m/s
+11.08.23 09:40:57:INFO:Weather for sasd: Clear, Temperature: 20.00°C, Feels Like: 19.00°C, Luftfeuchtigkeit: 45.00°C,Min Temperature: 20.00°C, Max Temperature: 20.00°C, Wind Speed: 2.89 m/s
+11.08.23 09:41:09:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: wertwr
+11.08.23 09:41:16:INFO:Weather for nürnberg: Clear, Temperature: 19.00°C, Feels Like: 19.00°C, Luftfeuchtigkeit: 63.00°C,Min Temperature: 18.00°C, Max Temperature: 20.00°C, Wind Speed: 2.06 m/s
+11.08.23 09:41:18:INFO:Weather for sada: Clouds, Temperature: 21.00°C, Feels Like: 21.00°C, Luftfeuchtigkeit: 85.00°C,Min Temperature: 20.00°C, Max Temperature: 22.00°C, Wind Speed: 3.09 m/s
+11.08.23 09:41:22:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sadagsdfg
+11.08.23 09:41:23:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sadagsdfg
+11.08.23 09:41:24:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sadagsdfgsaf
+11.08.23 09:41:27:INFO:Weather for sada: Clouds, Temperature: 21.00°C, Feels Like: 21.00°C, Luftfeuchtigkeit: 85.00°C,Min Temperature: 20.00°C, Max Temperature: 22.00°C, Wind Speed: 3.09 m/s
+11.08.23 09:41:30:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: dasdasd
+11.08.23 09:41:31:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: dasdasd
+11.08.23 09:42:33:INFO:Weather for nürnberg: Clear, Temperature: 19.00°C, Feels Like: 19.00°C, Luftfeuchtigkeit: 63.00°C,Min Temperature: 18.00°C, Max Temperature: 20.00°C, Wind Speed: 2.06 m/s
+11.08.23 09:42:37:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sassdda
+11.08.23 09:42:37:ERROR:Fehler beim Abrufen der Wetterdaten für sassdda.
+11.08.23 09:42:42:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sassddadasda
+11.08.23 09:42:42:ERROR:Fehler beim Abrufen der Wetterdaten für sassddadasda.
+11.08.23 09:42:46:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sassddadasdaihopii
+11.08.23 09:42:46:ERROR:Fehler beim Abrufen der Wetterdaten für sassddadasdaihopii.
+11.08.23 09:42:48:ERROR: 404: city not found 
+ Fehler beim Abrufen der Daten. 
+ Bitte versuchen Sie es später erneut.Eingegebener Ort: sassddadasdaihopiibjlhjlö
+11.08.23 09:42:48:ERROR:Fehler beim Abrufen der Wetterdaten für sassddadasdaihopiibjlhjlö.
+22.09.23 08:40:39:INFO:Weather for Nürnberg: Rain, Temperature: 14.00°C, Feels Like: 13.00°C, Humidity: 88.00°C,Min Temperature: 13.00°C, Max Temperature: 15.00°C, Wind Speed: 2.06 m/s
+22.09.23 09:26:12:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+22.09.23 09:26:14:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+22.09.23 09:27:48:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+22.09.23 09:27:53:INFO:Weather for nürnberg: Rain, Temperature: 14.00°C, Feels Like: 13.00°C, Humidity: 88.00°C,Min Temperature: 13.00°C, Max Temperature: 15.00°C, Wind Speed: 3.09 m/s
+22.09.23 09:47:37:INFO:Weather for nürnberg: Rain, Temperature: 14.00°C, Feels Like: 13.00°C, Humidity: 88.00°C,Min Temperature: 13.00°C, Max Temperature: 15.00°C, Wind Speed: 2.06 m/s
+22.09.23 09:59:51:INFO:Weather for nürnberg: Rain, Temperature: 14.00°C, Feels Like: 14.00°C, Humidity: 88.00°C,Min Temperature: 13.00°C, Max Temperature: 15.00°C, Wind Speed: 2.06 m/s
+22.09.23 10:50:07:INFO:Weather for nürnberg: Rain, Temperature: 14.00°C, Feels Like: 14.00°C, Humidity: 86.00°C,Min Temperature: 13.00°C, Max Temperature: 15.00°C, Wind Speed: 3.09 m/s
+22.09.23 10:58:26:INFO:Weather for nürnberg: Rain, Temperature: 14.00°C, Feels Like: 14.00°C, Humidity: 86.00°C,Min Temperature: 13.00°C, Max Temperature: 15.00°C, Wind Speed: 3.09 m/s
+22.09.23 11:34:08:INFO:Weather for nürnberg: Rain, Temperature: 15.00°C, Feels Like: 14.00°C, Humidity: 86.00°C,Min Temperature: 13.00°C, Max Temperature: 15.00°C, Wind Speed: 4.12 m/s
+04.10.23 08:29:04:INFO:Requested http://ipinfo.io/json
+04.10.23 08:29:04:INFO:Weather for Munich: Clouds, Temperature: 9.00°C, Feels Like: 9.00°C, Humidity: 91.00°C,Min Temperature: 7.00°C, Max Temperature: 10.00°C, Wind Speed: 1.18 m/s
+04.10.23 08:29:14:INFO:Weather for Nürnberg: Mist, Temperature: 8.00°C, Feels Like: 7.00°C, Humidity: 91.00°C,Min Temperature: 6.00°C, Max Temperature: 10.00°C, Wind Speed: 2.06 m/s
+04.10.23 13:54:42:INFO:Weather for Munich: Clouds, Temperature: 17.00°C, Feels Like: 16.00°C, Humidity: 60.00°C,Min Temperature: 16.00°C, Max Temperature: 17.00°C, Wind Speed: 0.89 m/s
+04.10.23 13:54:57:INFO:Weather for Nürnberg: Clouds, Temperature: 16.00°C, Feels Like: 16.00°C, Humidity: 63.00°C,Min Temperature: 15.00°C, Max Temperature: 18.00°C, Wind Speed: 5.66 m/s
+04.10.23 13:55:08:INFO:Weather for München: Clouds, Temperature: 17.00°C, Feels Like: 16.00°C, Humidity: 60.00°C,Min Temperature: 16.00°C, Max Temperature: 18.00°C, Wind Speed: 0.89 m/s
+04.10.23 13:55:10:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+04.10.23 13:55:11:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+04.10.23 13:56:54:INFO:Weather for Munich: Clouds, Temperature: 17.00°C, Feels Like: 16.00°C, Humidity: 60.00°C,Min Temperature: 16.00°C, Max Temperature: 17.00°C, Wind Speed: 0.89 m/s
+04.10.23 14:41:31:INFO:Weather for Munich: Clouds, Temperature: 17.00°C, Feels Like: 16.00°C, Humidity: 59.00°C,Min Temperature: 16.00°C, Max Temperature: 18.00°C, Wind Speed: 3.13 m/s
+04.10.23 14:41:36:INFO:Weather for Nürnberg: Clear, Temperature: 17.00°C, Feels Like: 16.00°C, Humidity: 60.00°C,Min Temperature: 16.00°C, Max Temperature: 18.00°C, Wind Speed: 5.14 m/s
+04.10.23 14:46:53:INFO:Weather for Munich: Clouds, Temperature: 17.00°C, Feels Like: 17.00°C, Humidity: 59.00°C,Min Temperature: 16.00°C, Max Temperature: 18.00°C, Wind Speed: 3.13 m/s
+04.10.23 14:47:01:INFO:Weather for München: Clouds, Temperature: 17.00°C, Feels Like: 16.00°C, Humidity: 59.00°C,Min Temperature: 16.00°C, Max Temperature: 19.00°C, Wind Speed: 2.24 m/s
+04.10.23 14:47:13:INFO:Weather for nürnberg: Clear, Temperature: 17.00°C, Feels Like: 16.00°C, Humidity: 60.00°C,Min Temperature: 16.00°C, Max Temperature: 18.00°C, Wind Speed: 5.14 m/s
+04.10.23 14:48:27:INFO:Weather for rom: Clear, Temperature: 28.00°C, Feels Like: 28.00°C, Humidity: 43.00°C,Min Temperature: 25.00°C, Max Temperature: 31.00°C, Wind Speed: 3.09 m/s
+04.10.23 14:49:09:INFO:Weather for neumarkt: Clear, Temperature: 23.00°C, Feels Like: 23.00°C, Humidity: 36.00°C,Min Temperature: 20.00°C, Max Temperature: 26.00°C, Wind Speed: 1.54 m/s
+04.10.23 14:49:27:INFO:Weather for oslo: Clear, Temperature: 16.00°C, Feels Like: 15.00°C, Humidity: 42.00°C,Min Temperature: 15.00°C, Max Temperature: 17.00°C, Wind Speed: 3.43 m/s
+04.10.23 14:49:40:INFO:Weather for moskau: Rain, Temperature: 15.00°C, Feels Like: 14.00°C, Humidity: 65.00°C,Min Temperature: 13.00°C, Max Temperature: 17.00°C, Wind Speed: 7.94 m/s
+04.10.23 14:54:17:INFO:Weather for Munich: Clouds, Temperature: 17.00°C, Feels Like: 17.00°C, Humidity: 59.00°C,Min Temperature: 16.00°C, Max Temperature: 18.00°C, Wind Speed: 3.13 m/s
+04.10.23 14:54:37:INFO:Weather for berngau: Clear, Temperature: 16.00°C, Feels Like: 15.00°C, Humidity: 59.00°C,Min Temperature: 15.00°C, Max Temperature: 17.00°C, Wind Speed: 3.62 m/s
+04.10.23 14:54:49:INFO:Weather for Munich: Clouds, Temperature: 17.00°C, Feels Like: 17.00°C, Humidity: 59.00°C,Min Temperature: 16.00°C, Max Temperature: 18.00°C, Wind Speed: 3.13 m/s
+04.10.23 14:55:22:INFO:Weather for dubai: Clear, Temperature: 36.00°C, Feels Like: 40.00°C, Humidity: 44.00°C,Min Temperature: 35.00°C, Max Temperature: 38.00°C, Wind Speed: 6.17 m/s
+04.10.23 14:57:17:INFO:Weather for Munich: Clouds, Temperature: 17.00°C, Feels Like: 16.00°C, Humidity: 60.00°C,Min Temperature: 16.00°C, Max Temperature: 18.00°C, Wind Speed: 0.89 m/s
+04.10.23 14:57:24:INFO:Weather for uzbekistan: Clear, Temperature: 23.00°C, Feels Like: 22.00°C, Humidity: 18.00°C,Min Temperature: 23.00°C, Max Temperature: 23.00°C, Wind Speed: 3.65 m/s
+04.10.23 14:58:55:INFO:Weather for Munich: Clouds, Temperature: 17.00°C, Feels Like: 16.00°C, Humidity: 60.00°C,Min Temperature: 16.00°C, Max Temperature: 18.00°C, Wind Speed: 0.89 m/s
+06.10.23 08:10:14:INFO:Weather for Munich: Clouds, Temperature: 5.00°C, Feels Like: 5.00°C, Humidity: 94.00°C,Min Temperature: 2.00°C, Max Temperature: 6.00°C, Wind Speed: 1.31 m/s
+06.10.23 08:10:29:INFO:Weather for nuremberg: Mist, Temperature: 5.00°C, Feels Like: 2.00°C, Humidity: 93.00°C,Min Temperature: 4.00°C, Max Temperature: 5.00°C, Wind Speed: 3.09 m/s
+06.10.23 08:10:47:INFO:Weather for nürnberg: Mist, Temperature: 5.00°C, Feels Like: 2.00°C, Humidity: 93.00°C,Min Temperature: 4.00°C, Max Temperature: 5.00°C, Wind Speed: 3.09 m/s
+06.10.23 08:11:04:INFO:Weather for barcelona: Clouds, Temperature: 20.00°C, Feels Like: 21.00°C, Humidity: 83.00°C,Min Temperature: 18.00°C, Max Temperature: 22.00°C, Wind Speed: 2.06 m/s
+06.10.23 08:53:27:INFO:Weather for Munich: Clouds, Temperature: 3.00°C, Feels Like: 3.00°C, Humidity: 77.00°C,Min Temperature: 3.00°C, Max Temperature: 3.00°C, Wind Speed: 0.83 m/s
+06.10.23 08:55:31:INFO:Weather for Munich: Clouds, Temperature: 3.00°C, Feels Like: 3.00°C, Humidity: 77.00°C,Min Temperature: 3.00°C, Max Temperature: 3.00°C, Wind Speed: 0.83 m/s
+06.10.23 08:55:52:INFO:Weather for Munich: Clouds, Temperature: 3.00°C, Feels Like: 3.00°C, Humidity: 77.00°C,Min Temperature: 3.00°C, Max Temperature: 3.00°C, Wind Speed: 0.83 m/s
+06.10.23 08:57:41:INFO:Weather for Munich: Clouds, Temperature: 3.00°C, Feels Like: 3.00°C, Humidity: 77.00°C,Min Temperature: 3.00°C, Max Temperature: 3.00°C, Wind Speed: 0.83 m/s
+06.10.23 08:58:42:INFO:Weather for hamburg: Rain, Temperature: 13.00°C, Feels Like: 12.00°C, Humidity: 89.00°C,Min Temperature: 12.00°C, Max Temperature: 13.00°C, Wind Speed: 7.2 m/s
+06.10.23 09:04:01:INFO:Weather for Munich: Clouds, Temperature: 6.00°C, Feels Like: 6.00°C, Humidity: 92.00°C,Min Temperature: 3.00°C, Max Temperature: 8.00°C, Wind Speed: 0.83 m/s
+06.10.23 09:04:06:INFO:Weather for Munich: Clouds, Temperature: 6.00°C, Feels Like: 6.00°C, Humidity: 92.00°C,Min Temperature: 3.00°C, Max Temperature: 8.00°C, Wind Speed: 0.83 m/s
+06.10.23 09:04:13:INFO:Weather for Munich: Clouds, Temperature: 6.00°C, Feels Like: 6.00°C, Humidity: 92.00°C,Min Temperature: 3.00°C, Max Temperature: 8.00°C, Wind Speed: 0.83 m/s
+06.10.23 09:04:22:INFO:Weather for Munich: Clouds, Temperature: 6.00°C, Feels Like: 6.00°C, Humidity: 92.00°C,Min Temperature: 3.00°C, Max Temperature: 8.00°C, Wind Speed: 0.83 m/s
+06.10.23 09:05:09:INFO:Weather for Munich: Clouds, Temperature: 6.00°C, Feels Like: 6.00°C, Humidity: 92.00°C,Min Temperature: 3.00°C, Max Temperature: 8.00°C, Wind Speed: 0.83 m/s
+06.10.23 09:05:41:INFO:Weather for Munich: Clouds, Temperature: 6.00°C, Feels Like: 6.00°C, Humidity: 92.00°C,Min Temperature: 3.00°C, Max Temperature: 8.00°C, Wind Speed: 0.83 m/s
+06.10.23 09:06:42:INFO:Weather for Munich: Clouds, Temperature: 6.00°C, Feels Like: 6.00°C, Humidity: 92.00°C,Min Temperature: 3.00°C, Max Temperature: 8.00°C, Wind Speed: 0.83 m/s
+06.10.23 09:07:25:INFO:Weather for Munich: Clouds, Temperature: 6.00°C, Feels Like: 6.00°C, Humidity: 92.00°C,Min Temperature: 3.00°C, Max Temperature: 8.00°C, Wind Speed: 0.83 m/s
+06.10.23 09:07:41:INFO:Weather for Munich: Clouds, Temperature: 6.00°C, Feels Like: 6.00°C, Humidity: 92.00°C,Min Temperature: 3.00°C, Max Temperature: 8.00°C, Wind Speed: 0.83 m/s
+06.10.23 09:07:53:INFO:Weather for Munich: Clouds, Temperature: 6.00°C, Feels Like: 6.00°C, Humidity: 92.00°C,Min Temperature: 3.00°C, Max Temperature: 8.00°C, Wind Speed: 0.83 m/s
+06.10.23 09:07:59:INFO:Weather for munich: Clouds, Temperature: 6.00°C, Feels Like: 6.00°C, Humidity: 92.00°C,Min Temperature: 3.00°C, Max Temperature: 8.00°C, Wind Speed: 0.83 m/s
+06.10.23 09:08:22:INFO:Weather for Munich: Clouds, Temperature: 6.00°C, Feels Like: 6.00°C, Humidity: 92.00°C,Min Temperature: 3.00°C, Max Temperature: 8.00°C, Wind Speed: 0.83 m/s
+06.10.23 09:08:32:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 09:10:46:INFO:Weather for Munich: Clouds, Temperature: 6.00°C, Feels Like: 6.00°C, Humidity: 92.00°C,Min Temperature: 3.00°C, Max Temperature: 8.00°C, Wind Speed: 0.83 m/s
+06.10.23 09:10:50:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 09:41:48:INFO:Weather for Munich: Clouds, Temperature: 10.00°C, Feels Like: 9.00°C, Humidity: 89.00°C,Min Temperature: 9.00°C, Max Temperature: 11.00°C, Wind Speed: 0.45 m/s
+06.10.23 09:41:54:INFO:Weather for munich: Clouds, Temperature: 10.00°C, Feels Like: 9.00°C, Humidity: 89.00°C,Min Temperature: 9.00°C, Max Temperature: 11.00°C, Wind Speed: 0.45 m/s
+06.10.23 09:42:04:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 09:45:00:INFO:Weather for Munich: Clouds, Temperature: 10.00°C, Feels Like: 9.00°C, Humidity: 89.00°C,Min Temperature: 9.00°C, Max Temperature: 11.00°C, Wind Speed: 0.45 m/s
+06.10.23 09:45:18:INFO:Weather for nuremberg: Clear, Temperature: 8.00°C, Feels Like: 7.00°C, Humidity: 87.00°C,Min Temperature: 6.00°C, Max Temperature: 8.00°C, Wind Speed: 2.57 m/s
+06.10.23 09:45:28:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 09:45:31:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 09:45:37:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 09:45:59:INFO:Weather for Munich: Clouds, Temperature: 11.00°C, Feels Like: 10.00°C, Humidity: 87.00°C,Min Temperature: 9.00°C, Max Temperature: 12.00°C, Wind Speed: 0.45 m/s
+06.10.23 09:46:27:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 09:52:59:INFO:Weather for Munich: Clouds, Temperature: 11.00°C, Feels Like: 10.00°C, Humidity: 87.00°C,Min Temperature: 9.00°C, Max Temperature: 12.00°C, Wind Speed: 0.45 m/s
+06.10.23 09:53:05:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 09:58:20:INFO:Weather for Munich: Clouds, Temperature: 11.00°C, Feels Like: 11.00°C, Humidity: 85.00°C,Min Temperature: 9.00°C, Max Temperature: 13.00°C, Wind Speed: 0.84 m/s
+06.10.23 09:59:21:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 09:59:23:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 09:59:31:INFO:Weather for Munich: Clouds, Temperature: 11.00°C, Feels Like: 11.00°C, Humidity: 85.00°C,Min Temperature: 9.00°C, Max Temperature: 13.00°C, Wind Speed: 0.84 m/s
+06.10.23 09:59:36:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 09:59:55:INFO:Weather for nürnberg: Clear, Temperature: 9.00°C, Feels Like: 7.00°C, Humidity: 86.00°C,Min Temperature: 8.00°C, Max Temperature: 9.00°C, Wind Speed: 2.57 m/s
+06.10.23 10:00:45:INFO:Weather for Munich: Clouds, Temperature: 11.00°C, Feels Like: 11.00°C, Humidity: 85.00°C,Min Temperature: 9.00°C, Max Temperature: 13.00°C, Wind Speed: 0.84 m/s
+06.10.23 10:00:51:INFO:Weather for nürnberg: Clear, Temperature: 9.00°C, Feels Like: 7.00°C, Humidity: 86.00°C,Min Temperature: 8.00°C, Max Temperature: 9.00°C, Wind Speed: 2.57 m/s
+06.10.23 10:00:59:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 10:01:30:INFO:Weather for Munich: Clouds, Temperature: 11.00°C, Feels Like: 11.00°C, Humidity: 85.00°C,Min Temperature: 9.00°C, Max Temperature: 13.00°C, Wind Speed: 0.84 m/s
+06.10.23 10:01:40:INFO:Weather for dubai: Clouds, Temperature: 32.00°C, Feels Like: 39.00°C, Humidity: 75.00°C,Min Temperature: 32.00°C, Max Temperature: 32.00°C, Wind Speed: 4.76 m/s
+06.10.23 10:01:44:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 10:01:52:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 10:03:33:INFO:Weather for Munich: Clouds, Temperature: 11.00°C, Feels Like: 11.00°C, Humidity: 85.00°C,Min Temperature: 9.00°C, Max Temperature: 13.00°C, Wind Speed: 0.84 m/s
+06.10.23 10:03:51:INFO:Weather for nürnberg: Clear, Temperature: 9.00°C, Feels Like: 7.00°C, Humidity: 86.00°C,Min Temperature: 8.00°C, Max Temperature: 9.00°C, Wind Speed: 2.57 m/s
+06.10.23 10:04:11:ERROR: 404: city not found 
+ Error collecting weather data. 
+ Please check spelling or choose larger city.Requested City: Enter city
+06.10.23 10:06:52:INFO:Weather for Munich: Clouds, Temperature: 11.00°C, Feels Like: 11.00°C, Humidity: 85.00°C,Min Temperature: 9.00°C, Max Temperature: 13.00°C, Wind Speed: 0.84 m/s
+06.10.23 10:06:56:ERROR: 404: city not found 
+ Error collecting data.
+ Please check spelling 
+ or choose larger city.Requested City: Enter city
+06.10.23 10:07:20:INFO:Weather for Munich: Clouds, Temperature: 11.00°C, Feels Like: 11.00°C, Humidity: 85.00°C,Min Temperature: 9.00°C, Max Temperature: 13.00°C, Wind Speed: 0.84 m/s
+06.10.23 10:10:08:ERROR: 404: city not found 
+ Error collecting data.
+ Please check spelling 
+ or choose larger city.Requested City: Enter city
+06.10.23 10:10:34:INFO:Weather for Nuremberg: Clear, Temperature: 10.00°C, Feels Like: 10.00°C, Humidity: 84.00°C,Min Temperature: 10.00°C, Max Temperature: 11.00°C, Wind Speed: 1.54 m/s
+06.10.23 10:12:27:INFO:Weather for Munich: Clouds, Temperature: 12.00°C, Feels Like: 12.00°C, Humidity: 81.00°C,Min Temperature: 9.00°C, Max Temperature: 14.00°C, Wind Speed: 0.45 m/s
+06.10.23 10:12:30:ERROR: 404: city not found 
+
+ Error collecting data.
+ Please check spelling 
+ or choose larger city.Requested City: Enter city
+06.10.23 10:34:39:INFO:Weather for Munich: Clouds, Temperature: 13.00°C, Feels Like: 13.00°C, Humidity: 79.00°C,Min Temperature: 10.00°C, Max Temperature: 15.00°C, Wind Speed: 0.6 m/s
+06.10.23 10:37:55:INFO:Weather for Munich: Clouds, Temperature: 13.00°C, Feels Like: 13.00°C, Humidity: 79.00°C,Min Temperature: 10.00°C, Max Temperature: 15.00°C, Wind Speed: 0.6 m/s
+06.10.23 10:38:14:INFO:Weather for Munich: Clouds, Temperature: 13.00°C, Feels Like: 13.00°C, Humidity: 79.00°C,Min Temperature: 10.00°C, Max Temperature: 15.00°C, Wind Speed: 0.6 m/s
+06.10.23 10:38:54:INFO:Weather for Munich: Clouds, Temperature: 13.00°C, Feels Like: 13.00°C, Humidity: 79.00°C,Min Temperature: 10.00°C, Max Temperature: 15.00°C, Wind Speed: 0.6 m/s
+06.10.23 10:39:51:INFO:Weather for Munich: Clouds, Temperature: 13.00°C, Feels Like: 13.00°C, Humidity: 79.00°C,Min Temperature: 10.00°C, Max Temperature: 15.00°C, Wind Speed: 0.6 m/s
+06.10.23 10:40:40:INFO:Weather for Munich: Clouds, Temperature: 14.00°C, Feels Like: 13.00°C, Humidity: 78.00°C,Min Temperature: 10.00°C, Max Temperature: 16.00°C, Wind Speed: 0.6 m/s
+06.10.23 10:41:29:INFO:Weather for Munich: Clouds, Temperature: 14.00°C, Feels Like: 13.00°C, Humidity: 78.00°C,Min Temperature: 10.00°C, Max Temperature: 16.00°C, Wind Speed: 0.6 m/s
+06.10.23 10:41:57:INFO:Weather for Munich: Clouds, Temperature: 14.00°C, Feels Like: 13.00°C, Humidity: 78.00°C,Min Temperature: 10.00°C, Max Temperature: 16.00°C, Wind Speed: 0.6 m/s
+06.10.23 10:42:20:INFO:Weather for Munich: Clouds, Temperature: 14.00°C, Feels Like: 13.00°C, Humidity: 78.00°C,Min Temperature: 10.00°C, Max Temperature: 16.00°C, Wind Speed: 0.6 m/s
+06.10.23 10:44:08:INFO:Weather for Munich: Clouds, Temperature: 14.00°C, Feels Like: 13.00°C, Humidity: 78.00°C,Min Temperature: 10.00°C, Max Temperature: 16.00°C, Wind Speed: 0.6 m/s
+06.10.23 10:46:12:INFO:Weather for Munich: Clouds, Temperature: 14.00°C, Feels Like: 13.00°C, Humidity: 78.00°C,Min Temperature: 10.00°C, Max Temperature: 16.00°C, Wind Speed: 0.6 m/s
+06.10.23 10:52:14:INFO:Weather for Munich: Clouds, Temperature: 14.00°C, Feels Like: 14.00°C, Humidity: 77.00°C,Min Temperature: 12.00°C, Max Temperature: 15.00°C, Wind Speed: 0.6 m/s
+06.10.23 10:57:40:INFO:Weather for Munich: Clouds, Temperature: 14.00°C, Feels Like: 14.00°C, Humidity: 77.00°C,Min Temperature: 12.00°C, Max Temperature: 15.00°C, Wind Speed: 0.6 m/s
+06.10.23 10:59:56:INFO:Weather for Munich: Clouds, Temperature: 14.00°C, Feels Like: 14.00°C, Humidity: 77.00°C,Min Temperature: 12.00°C, Max Temperature: 15.00°C, Wind Speed: 0.6 m/s
+06.10.23 11:01:38:INFO:Weather for Munich: Clouds, Temperature: 14.00°C, Feels Like: 14.00°C, Humidity: 77.00°C,Min Temperature: 12.00°C, Max Temperature: 15.00°C, Wind Speed: 0.6 m/s
+06.10.23 11:07:39:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 14.00°C, Humidity: 74.00°C,Min Temperature: 11.00°C, Max Temperature: 16.00°C, Wind Speed: 0.45 m/s
+06.10.23 11:08:36:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 14.00°C, Humidity: 74.00°C,Min Temperature: 11.00°C, Max Temperature: 16.00°C, Wind Speed: 0.45 m/s
+06.10.23 11:14:53:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 14.00°C, Humidity: 74.00°C,Min Temperature: 11.00°C, Max Temperature: 16.00°C, Wind Speed: 0.45 m/s
+06.10.23 11:16:38:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 14.00°C, Humidity: 74.00°C,Min Temperature: 11.00°C, Max Temperature: 16.00°C, Wind Speed: 0.45 m/s
+06.10.23 11:16:51:INFO:Weather for nürnberg: Clear, Temperature: 13.00°C, Feels Like: 13.00°C, Humidity: 81.00°C,Min Temperature: 12.00°C, Max Temperature: 14.00°C, Wind Speed: 1.54 m/s
+06.10.23 11:17:17:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 14.00°C, Humidity: 74.00°C,Min Temperature: 11.00°C, Max Temperature: 16.00°C, Wind Speed: 0.45 m/s
+06.10.23 11:17:35:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 14.00°C, Humidity: 74.00°C,Min Temperature: 11.00°C, Max Temperature: 16.00°C, Wind Speed: 0.45 m/s
+06.10.23 11:19:35:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 73.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 1.34 m/s
+06.10.23 11:20:04:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 73.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 1.34 m/s
+06.10.23 11:22:50:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 73.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 1.34 m/s
+06.10.23 11:23:39:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 73.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 1.34 m/s
+06.10.23 11:24:00:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 73.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 1.34 m/s
+06.10.23 11:25:08:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 73.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 1.34 m/s
+06.10.23 11:25:24:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 73.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 1.34 m/s
+06.10.23 11:26:36:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 73.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 1.34 m/s
+06.10.23 11:26:45:ERROR: 404: city not found 
+
+ Error collecting data.
+ Please check spelling 
+ or choose larger city.Requested City: Enter city
+06.10.23 11:27:11:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 73.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 1.34 m/s
+06.10.23 11:27:18:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 73.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 1.34 m/s
+06.10.23 11:28:07:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 73.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 1.34 m/s
+06.10.23 11:29:28:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 73.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 1.34 m/s
+06.10.23 11:29:37:INFO:Weather for munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 72.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 0.89 m/s
+06.10.23 11:31:21:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 72.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 0.89 m/s
+06.10.23 11:31:28:ERROR: 404: city not found 
+
+ Error collecting data.
+ Please check spelling 
+ or choose larger city.Requested City: Enter city
+06.10.23 11:32:06:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 72.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 0.89 m/s
+06.10.23 11:32:48:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 72.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 0.89 m/s
+06.10.23 11:33:09:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 72.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 0.89 m/s
+06.10.23 11:33:25:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 72.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 0.89 m/s
+06.10.23 11:33:50:INFO:Weather for Munich: Clouds, Temperature: 15.00°C, Feels Like: 15.00°C, Humidity: 72.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 0.89 m/s
+06.10.23 11:35:50:INFO:Weather for Munich: Clouds, Temperature: 16.00°C, Feels Like: 15.00°C, Humidity: 71.00°C,Min Temperature: 12.00°C, Max Temperature: 17.00°C, Wind Speed: 0.45 m/s
